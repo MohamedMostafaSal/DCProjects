@@ -1,5 +1,6 @@
 1-  Streamlining Employee Data
-            Import employee and human resources data in CSV, Excel, and JSON format. Then merge it all into a single DataFrame, before cleaning it and exporting my results into a single CSV file.
+            Import employee and human resources data in CSV, Excel, and JSON format. Then merge it all into a single DataFrame, before cleaning it and exporting my
+            results into a single CSV file.
 
             Steps of solving:
             1. Loading data from CSV and Excel files
